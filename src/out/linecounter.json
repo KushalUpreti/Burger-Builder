@@ -1,0 +1,1327 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "d:\\Downloads\\[AReact\\0. Test\\BurgerBuilder\\App\\burgerapp\\src",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2020-09-18 21:52:55",
+            "filesum": 51,
+            "codesum": 1576,
+            "commentsum": 50,
+            "blanksum": 222,
+            "statistics": {
+                ".js": {
+                    "code": 1017,
+                    "comment": 50,
+                    "blank": 167
+                },
+                ".css": {
+                    "code": 559,
+                    "comment": 0,
+                    "blank": 55
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 4,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "App.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "App.test.js"
+                },
+                {
+                    "filename": "Assets\\burger.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Assets\\hamburger.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "axios_inst.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\BuildControls\\BuildControl\\BuildControl.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 50,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\BuildControls\\BuildControl\\BuildControl.module.css"
+                },
+                {
+                    "blank": 7,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\BuildControls\\BuildControls.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 47,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\BuildControls\\BuildControls.module.css"
+                },
+                {
+                    "blank": 7,
+                    "code": 24,
+                    "comment": 10,
+                    "filename": "Components\\Burger\\Burger.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\Burger.module.css"
+                },
+                {
+                    "blank": 9,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\Ingredients\\BurgerIngredients.js"
+                },
+                {
+                    "blank": 11,
+                    "code": 102,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\Ingredients\\Ingredient.module.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\OrderSummary\\OrderSummary.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "Components\\Layout\\Layout.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "Components\\Layout\\Layout.module.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Components\\Layout\\Toolbar\\Toolbar.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "Components\\Layout\\Toolbar\\Toolbar.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Components\\Logo\\Logo.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "Components\\Logo\\Logo.module.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\NavigationItem\\NavigationItem.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\NavigationItem\\NavigationItem.module.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\NavigationItems.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\NavigationItems.module.css"
+                },
+                {
+                    "blank": 5,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\SideDrawer\\SideDrawer.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\SideDrawer\\SideDrawer.module.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Components\\Order\\Order.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Components\\Order\\Order.module.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Components\\Orders\\CheckoutSummary\\CheckoutSummary.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Components\\Orders\\CheckoutSummary\\CheckoutSummary.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Backdrop\\Backdrop.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Backdrop\\Backdrop.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Button\\Button.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Button\\Button.module.css"
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Input\\Input.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Input\\Input.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Modal\\Modal.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Modal\\Modal.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Spinner\\Spinner.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 85,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Spinner\\Spinner.module.css"
+                },
+                {
+                    "blank": 19,
+                    "code": 148,
+                    "comment": 0,
+                    "filename": "Containers\\BurgerBuilder\\BurgerBuilder.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 51,
+                    "comment": 0,
+                    "filename": "Containers\\Checkout\\Checkout.js"
+                },
+                {
+                    "blank": 31,
+                    "code": 243,
+                    "comment": 2,
+                    "filename": "Containers\\Checkout\\ContactData\\ContactData.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Containers\\Checkout\\ContactData\\ContactData.module.css"
+                },
+                {
+                    "blank": 7,
+                    "code": 49,
+                    "comment": 0,
+                    "filename": "Containers\\Orders\\Orders.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "HOC\\Auxiliary.js"
+                },
+                {
+                    "blank": 10,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "HOC\\withError\\WithError.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 3,
+                    "filename": "index.js"
+                },
+                {
+                    "blank": 15,
+                    "code": 95,
+                    "comment": 31,
+                    "filename": "serviceWorker.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "setupTests.js"
+                }
+            ]
+        },
+        {
+            "version": "0.2.7",
+            "counttime": "2020-09-18 21:53:24",
+            "filesum": 51,
+            "codesum": 1576,
+            "commentsum": 50,
+            "blanksum": 222,
+            "statistics": {
+                ".js": {
+                    "code": 1017,
+                    "comment": 50,
+                    "blank": 167
+                },
+                ".css": {
+                    "code": 559,
+                    "comment": 0,
+                    "blank": 55
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 4,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "App.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "App.test.js"
+                },
+                {
+                    "filename": "Assets\\burger.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Assets\\hamburger.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "axios_inst.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\BuildControls\\BuildControl\\BuildControl.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 50,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\BuildControls\\BuildControl\\BuildControl.module.css"
+                },
+                {
+                    "blank": 7,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\BuildControls\\BuildControls.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 47,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\BuildControls\\BuildControls.module.css"
+                },
+                {
+                    "blank": 7,
+                    "code": 24,
+                    "comment": 10,
+                    "filename": "Components\\Burger\\Burger.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\Burger.module.css"
+                },
+                {
+                    "blank": 9,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\Ingredients\\BurgerIngredients.js"
+                },
+                {
+                    "blank": 11,
+                    "code": 102,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\Ingredients\\Ingredient.module.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\OrderSummary\\OrderSummary.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "Components\\Layout\\Layout.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "Components\\Layout\\Layout.module.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Components\\Layout\\Toolbar\\Toolbar.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "Components\\Layout\\Toolbar\\Toolbar.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Components\\Logo\\Logo.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "Components\\Logo\\Logo.module.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\NavigationItem\\NavigationItem.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\NavigationItem\\NavigationItem.module.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\NavigationItems.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\NavigationItems.module.css"
+                },
+                {
+                    "blank": 5,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\SideDrawer\\SideDrawer.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\SideDrawer\\SideDrawer.module.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Components\\Order\\Order.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Components\\Order\\Order.module.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Components\\Orders\\CheckoutSummary\\CheckoutSummary.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Components\\Orders\\CheckoutSummary\\CheckoutSummary.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Backdrop\\Backdrop.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Backdrop\\Backdrop.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Button\\Button.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Button\\Button.module.css"
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Input\\Input.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Input\\Input.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Modal\\Modal.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Modal\\Modal.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Spinner\\Spinner.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 85,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Spinner\\Spinner.module.css"
+                },
+                {
+                    "blank": 19,
+                    "code": 148,
+                    "comment": 0,
+                    "filename": "Containers\\BurgerBuilder\\BurgerBuilder.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 51,
+                    "comment": 0,
+                    "filename": "Containers\\Checkout\\Checkout.js"
+                },
+                {
+                    "blank": 31,
+                    "code": 243,
+                    "comment": 2,
+                    "filename": "Containers\\Checkout\\ContactData\\ContactData.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Containers\\Checkout\\ContactData\\ContactData.module.css"
+                },
+                {
+                    "blank": 7,
+                    "code": 49,
+                    "comment": 0,
+                    "filename": "Containers\\Orders\\Orders.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "HOC\\Auxiliary.js"
+                },
+                {
+                    "blank": 10,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "HOC\\withError\\WithError.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 3,
+                    "filename": "index.js"
+                },
+                {
+                    "blank": 15,
+                    "code": 95,
+                    "comment": 31,
+                    "filename": "serviceWorker.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "setupTests.js"
+                }
+            ]
+        },
+        {
+            "version": "0.2.7",
+            "counttime": "2020-09-18 21:54:54",
+            "filesum": 51,
+            "codesum": 1576,
+            "commentsum": 50,
+            "blanksum": 222,
+            "statistics": {
+                ".js": {
+                    "code": 1017,
+                    "comment": 50,
+                    "blank": 167
+                },
+                ".css": {
+                    "code": 559,
+                    "comment": 0,
+                    "blank": 55
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 4,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "App.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "App.test.js"
+                },
+                {
+                    "filename": "Assets\\burger.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Assets\\hamburger.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "axios_inst.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\BuildControls\\BuildControl\\BuildControl.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 50,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\BuildControls\\BuildControl\\BuildControl.module.css"
+                },
+                {
+                    "blank": 7,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\BuildControls\\BuildControls.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 47,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\BuildControls\\BuildControls.module.css"
+                },
+                {
+                    "blank": 7,
+                    "code": 24,
+                    "comment": 10,
+                    "filename": "Components\\Burger\\Burger.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\Burger.module.css"
+                },
+                {
+                    "blank": 9,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\Ingredients\\BurgerIngredients.js"
+                },
+                {
+                    "blank": 11,
+                    "code": 102,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\Ingredients\\Ingredient.module.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\OrderSummary\\OrderSummary.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "Components\\Layout\\Layout.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "Components\\Layout\\Layout.module.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Components\\Layout\\Toolbar\\Toolbar.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "Components\\Layout\\Toolbar\\Toolbar.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Components\\Logo\\Logo.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "Components\\Logo\\Logo.module.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\NavigationItem\\NavigationItem.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\NavigationItem\\NavigationItem.module.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\NavigationItems.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\NavigationItems.module.css"
+                },
+                {
+                    "blank": 5,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\SideDrawer\\SideDrawer.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\SideDrawer\\SideDrawer.module.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Components\\Order\\Order.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Components\\Order\\Order.module.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Components\\Orders\\CheckoutSummary\\CheckoutSummary.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Components\\Orders\\CheckoutSummary\\CheckoutSummary.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Backdrop\\Backdrop.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Backdrop\\Backdrop.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Button\\Button.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Button\\Button.module.css"
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Input\\Input.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Input\\Input.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Modal\\Modal.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Modal\\Modal.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Spinner\\Spinner.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 85,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Spinner\\Spinner.module.css"
+                },
+                {
+                    "blank": 19,
+                    "code": 148,
+                    "comment": 0,
+                    "filename": "Containers\\BurgerBuilder\\BurgerBuilder.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 51,
+                    "comment": 0,
+                    "filename": "Containers\\Checkout\\Checkout.js"
+                },
+                {
+                    "blank": 31,
+                    "code": 243,
+                    "comment": 2,
+                    "filename": "Containers\\Checkout\\ContactData\\ContactData.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Containers\\Checkout\\ContactData\\ContactData.module.css"
+                },
+                {
+                    "blank": 7,
+                    "code": 49,
+                    "comment": 0,
+                    "filename": "Containers\\Orders\\Orders.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "HOC\\Auxiliary.js"
+                },
+                {
+                    "blank": 10,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "HOC\\withError\\WithError.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 3,
+                    "filename": "index.js"
+                },
+                {
+                    "blank": 15,
+                    "code": 95,
+                    "comment": 31,
+                    "filename": "serviceWorker.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "setupTests.js"
+                }
+            ]
+        },
+        {
+            "version": "0.2.7",
+            "counttime": "2020-09-18 21:55:01",
+            "filesum": 51,
+            "codesum": 1576,
+            "commentsum": 50,
+            "blanksum": 222,
+            "statistics": {
+                ".js": {
+                    "code": 1017,
+                    "comment": 50,
+                    "blank": 167
+                },
+                ".css": {
+                    "code": 559,
+                    "comment": 0,
+                    "blank": 55
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 4,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "App.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "App.test.js"
+                },
+                {
+                    "filename": "Assets\\burger.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Assets\\hamburger.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "axios_inst.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\BuildControls\\BuildControl\\BuildControl.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 50,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\BuildControls\\BuildControl\\BuildControl.module.css"
+                },
+                {
+                    "blank": 7,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\BuildControls\\BuildControls.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 47,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\BuildControls\\BuildControls.module.css"
+                },
+                {
+                    "blank": 7,
+                    "code": 24,
+                    "comment": 10,
+                    "filename": "Components\\Burger\\Burger.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\Burger.module.css"
+                },
+                {
+                    "blank": 9,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\Ingredients\\BurgerIngredients.js"
+                },
+                {
+                    "blank": 11,
+                    "code": 102,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\Ingredients\\Ingredient.module.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Components\\Burger\\OrderSummary\\OrderSummary.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "Components\\Layout\\Layout.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "Components\\Layout\\Layout.module.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Components\\Layout\\Toolbar\\Toolbar.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "Components\\Layout\\Toolbar\\Toolbar.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Components\\Logo\\Logo.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "Components\\Logo\\Logo.module.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\NavigationItem\\NavigationItem.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\NavigationItem\\NavigationItem.module.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\NavigationItems.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\NavigationItems.module.css"
+                },
+                {
+                    "blank": 5,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\SideDrawer\\SideDrawer.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "Components\\NavigationItems\\SideDrawer\\SideDrawer.module.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Components\\Order\\Order.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Components\\Order\\Order.module.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "Components\\Orders\\CheckoutSummary\\CheckoutSummary.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "Components\\Orders\\CheckoutSummary\\CheckoutSummary.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Backdrop\\Backdrop.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Backdrop\\Backdrop.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Button\\Button.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Button\\Button.module.css"
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Input\\Input.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Input\\Input.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Modal\\Modal.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Modal\\Modal.module.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Spinner\\Spinner.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 85,
+                    "comment": 0,
+                    "filename": "Components\\UI\\Spinner\\Spinner.module.css"
+                },
+                {
+                    "blank": 19,
+                    "code": 148,
+                    "comment": 0,
+                    "filename": "Containers\\BurgerBuilder\\BurgerBuilder.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 51,
+                    "comment": 0,
+                    "filename": "Containers\\Checkout\\Checkout.js"
+                },
+                {
+                    "blank": 31,
+                    "code": 243,
+                    "comment": 2,
+                    "filename": "Containers\\Checkout\\ContactData\\ContactData.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "Containers\\Checkout\\ContactData\\ContactData.module.css"
+                },
+                {
+                    "blank": 7,
+                    "code": 49,
+                    "comment": 0,
+                    "filename": "Containers\\Orders\\Orders.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "HOC\\Auxiliary.js"
+                },
+                {
+                    "blank": 10,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "HOC\\withError\\WithError.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 3,
+                    "filename": "index.js"
+                },
+                {
+                    "blank": 15,
+                    "code": 95,
+                    "comment": 31,
+                    "filename": "serviceWorker.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "setupTests.js"
+                }
+            ]
+        }
+    ]
+}

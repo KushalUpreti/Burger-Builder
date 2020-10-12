@@ -1,0 +1,207 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2020-09-18 21:53:24
+count workspace : d:\Downloads\[AReact\0. Test\BurgerBuilder\App\burgerapp\src
+total files : 51
+total code lines : 1576
+total comment lines : 50
+total blank lines : 222
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |            .js|           1017|             50|            167|     65|
+   |           .css|            559|              0|             55|     35|
+   -------------------------------------------------------------------------
+App.js, code is 22, comment is 0, blank is 4.
+App.test.js, code is 8, comment is 0, blank is 1.
+Assets\burger.png, it is a binary file.
+Assets\hamburger.png, it is a binary file.
+axios_inst.js, code is 5, comment is 0, blank is 2.
+Components\Burger\BuildControls\BuildControl\BuildControl.js, code is 12, comment is 0, blank is 2.
+Components\Burger\BuildControls\BuildControl\BuildControl.module.css, code is 50, comment is 0, blank is 8.
+Components\Burger\BuildControls\BuildControls.js, code is 33, comment is 0, blank is 7.
+Components\Burger\BuildControls\BuildControls.module.css, code is 47, comment is 0, blank is 5.
+Components\Burger\Burger.js, code is 24, comment is 10, blank is 7.
+Components\Burger\Burger.module.css, code is 27, comment is 0, blank is 3.
+Components\Burger\Ingredients\BurgerIngredients.js, code is 37, comment is 0, blank is 9.
+Components\Burger\Ingredients\Ingredient.module.css, code is 102, comment is 0, blank is 11.
+Components\Burger\OrderSummary\OrderSummary.js, code is 20, comment is 0, blank is 4.
+Components\Layout\Layout.js, code is 33, comment is 0, blank is 6.
+Components\Layout\Layout.module.css, code is 3, comment is 0, blank is 0.
+Components\Layout\Toolbar\Toolbar.js, code is 17, comment is 0, blank is 1.
+Components\Layout\Toolbar\Toolbar.module.css, code is 32, comment is 0, blank is 5.
+Components\Logo\Logo.js, code is 9, comment is 0, blank is 2.
+Components\Logo\Logo.module.css, code is 18, comment is 0, blank is 2.
+Components\NavigationItems\NavigationItem\NavigationItem.js, code is 10, comment is 0, blank is 1.
+Components\NavigationItems\NavigationItem\NavigationItem.module.css, code is 40, comment is 0, blank is 5.
+Components\NavigationItems\NavigationItems.js, code is 12, comment is 0, blank is 1.
+Components\NavigationItems\NavigationItems.module.css, code is 14, comment is 0, blank is 1.
+Components\NavigationItems\SideDrawer\SideDrawer.js, code is 24, comment is 0, blank is 5.
+Components\NavigationItems\SideDrawer\SideDrawer.module.css, code is 23, comment is 0, blank is 3.
+Components\Order\Order.js, code is 20, comment is 0, blank is 4.
+Components\Order\Order.module.css, code is 8, comment is 0, blank is 0.
+Components\Orders\CheckoutSummary\CheckoutSummary.js, code is 17, comment is 0, blank is 3.
+Components\Orders\CheckoutSummary\CheckoutSummary.module.css, code is 10, comment is 0, blank is 1.
+Components\UI\Backdrop\Backdrop.js, code is 8, comment is 0, blank is 2.
+Components\UI\Backdrop\Backdrop.module.css, code is 9, comment is 0, blank is 0.
+Components\UI\Button\Button.js, code is 8, comment is 0, blank is 2.
+Components\UI\Button\Button.module.css, code is 21, comment is 0, blank is 3.
+Components\UI\Input\Input.js, code is 32, comment is 0, blank is 6.
+Components\UI\Input\Input.module.css, code is 26, comment is 0, blank is 4.
+Components\UI\Modal\Modal.js, code is 19, comment is 0, blank is 2.
+Components\UI\Modal\Modal.module.css, code is 19, comment is 0, blank is 1.
+Components\UI\Spinner\Spinner.js, code is 6, comment is 0, blank is 2.
+Components\UI\Spinner\Spinner.module.css, code is 85, comment is 0, blank is 0.
+Containers\BurgerBuilder\BurgerBuilder.js, code is 148, comment is 0, blank is 19.
+Containers\Checkout\Checkout.js, code is 51, comment is 0, blank is 9.
+Containers\Checkout\ContactData\ContactData.js, code is 243, comment is 2, blank is 31.
+Containers\Checkout\ContactData\ContactData.module.css, code is 14, comment is 0, blank is 1.
+Containers\Orders\Orders.js, code is 49, comment is 0, blank is 7.
+HOC\Auxiliary.js, code is 2, comment is 0, blank is 1.
+HOC\withError\WithError.js, code is 40, comment is 0, blank is 10.
+index.css, code is 11, comment is 0, blank is 2.
+index.js, code is 12, comment is 3, blank is 2.
+serviceWorker.js, code is 95, comment is 31, blank is 15.
+setupTests.js, code is 1, comment is 4, blank is 0.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2020-09-18 21:54:54
+count workspace : d:\Downloads\[AReact\0. Test\BurgerBuilder\App\burgerapp\src
+total files : 51
+total code lines : 1576
+total comment lines : 50
+total blank lines : 222
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |            .js|           1017|             50|            167|     65|
+   |           .css|            559|              0|             55|     35|
+   -------------------------------------------------------------------------
+App.js, code is 22, comment is 0, blank is 4.
+App.test.js, code is 8, comment is 0, blank is 1.
+Assets\burger.png, it is a binary file.
+Assets\hamburger.png, it is a binary file.
+axios_inst.js, code is 5, comment is 0, blank is 2.
+Components\Burger\BuildControls\BuildControl\BuildControl.js, code is 12, comment is 0, blank is 2.
+Components\Burger\BuildControls\BuildControl\BuildControl.module.css, code is 50, comment is 0, blank is 8.
+Components\Burger\BuildControls\BuildControls.js, code is 33, comment is 0, blank is 7.
+Components\Burger\BuildControls\BuildControls.module.css, code is 47, comment is 0, blank is 5.
+Components\Burger\Burger.js, code is 24, comment is 10, blank is 7.
+Components\Burger\Burger.module.css, code is 27, comment is 0, blank is 3.
+Components\Burger\Ingredients\BurgerIngredients.js, code is 37, comment is 0, blank is 9.
+Components\Burger\Ingredients\Ingredient.module.css, code is 102, comment is 0, blank is 11.
+Components\Burger\OrderSummary\OrderSummary.js, code is 20, comment is 0, blank is 4.
+Components\Layout\Layout.js, code is 33, comment is 0, blank is 6.
+Components\Layout\Layout.module.css, code is 3, comment is 0, blank is 0.
+Components\Layout\Toolbar\Toolbar.js, code is 17, comment is 0, blank is 1.
+Components\Layout\Toolbar\Toolbar.module.css, code is 32, comment is 0, blank is 5.
+Components\Logo\Logo.js, code is 9, comment is 0, blank is 2.
+Components\Logo\Logo.module.css, code is 18, comment is 0, blank is 2.
+Components\NavigationItems\NavigationItem\NavigationItem.js, code is 10, comment is 0, blank is 1.
+Components\NavigationItems\NavigationItem\NavigationItem.module.css, code is 40, comment is 0, blank is 5.
+Components\NavigationItems\NavigationItems.js, code is 12, comment is 0, blank is 1.
+Components\NavigationItems\NavigationItems.module.css, code is 14, comment is 0, blank is 1.
+Components\NavigationItems\SideDrawer\SideDrawer.js, code is 24, comment is 0, blank is 5.
+Components\NavigationItems\SideDrawer\SideDrawer.module.css, code is 23, comment is 0, blank is 3.
+Components\Order\Order.js, code is 20, comment is 0, blank is 4.
+Components\Order\Order.module.css, code is 8, comment is 0, blank is 0.
+Components\Orders\CheckoutSummary\CheckoutSummary.js, code is 17, comment is 0, blank is 3.
+Components\Orders\CheckoutSummary\CheckoutSummary.module.css, code is 10, comment is 0, blank is 1.
+Components\UI\Backdrop\Backdrop.js, code is 8, comment is 0, blank is 2.
+Components\UI\Backdrop\Backdrop.module.css, code is 9, comment is 0, blank is 0.
+Components\UI\Button\Button.js, code is 8, comment is 0, blank is 2.
+Components\UI\Button\Button.module.css, code is 21, comment is 0, blank is 3.
+Components\UI\Input\Input.js, code is 32, comment is 0, blank is 6.
+Components\UI\Input\Input.module.css, code is 26, comment is 0, blank is 4.
+Components\UI\Modal\Modal.js, code is 19, comment is 0, blank is 2.
+Components\UI\Modal\Modal.module.css, code is 19, comment is 0, blank is 1.
+Components\UI\Spinner\Spinner.js, code is 6, comment is 0, blank is 2.
+Components\UI\Spinner\Spinner.module.css, code is 85, comment is 0, blank is 0.
+Containers\BurgerBuilder\BurgerBuilder.js, code is 148, comment is 0, blank is 19.
+Containers\Checkout\Checkout.js, code is 51, comment is 0, blank is 9.
+Containers\Checkout\ContactData\ContactData.js, code is 243, comment is 2, blank is 31.
+Containers\Checkout\ContactData\ContactData.module.css, code is 14, comment is 0, blank is 1.
+Containers\Orders\Orders.js, code is 49, comment is 0, blank is 7.
+HOC\Auxiliary.js, code is 2, comment is 0, blank is 1.
+HOC\withError\WithError.js, code is 40, comment is 0, blank is 10.
+index.css, code is 11, comment is 0, blank is 2.
+index.js, code is 12, comment is 3, blank is 2.
+serviceWorker.js, code is 95, comment is 31, blank is 15.
+setupTests.js, code is 1, comment is 4, blank is 0.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2020-09-18 21:55:01
+count workspace : d:\Downloads\[AReact\0. Test\BurgerBuilder\App\burgerapp\src
+total files : 51
+total code lines : 1576
+total comment lines : 50
+total blank lines : 222
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |            .js|           1017|             50|            167|     65|
+   |           .css|            559|              0|             55|     35|
+   -------------------------------------------------------------------------
+App.js, code is 22, comment is 0, blank is 4.
+App.test.js, code is 8, comment is 0, blank is 1.
+Assets\burger.png, it is a binary file.
+Assets\hamburger.png, it is a binary file.
+axios_inst.js, code is 5, comment is 0, blank is 2.
+Components\Burger\BuildControls\BuildControl\BuildControl.js, code is 12, comment is 0, blank is 2.
+Components\Burger\BuildControls\BuildControl\BuildControl.module.css, code is 50, comment is 0, blank is 8.
+Components\Burger\BuildControls\BuildControls.js, code is 33, comment is 0, blank is 7.
+Components\Burger\BuildControls\BuildControls.module.css, code is 47, comment is 0, blank is 5.
+Components\Burger\Burger.js, code is 24, comment is 10, blank is 7.
+Components\Burger\Burger.module.css, code is 27, comment is 0, blank is 3.
+Components\Burger\Ingredients\BurgerIngredients.js, code is 37, comment is 0, blank is 9.
+Components\Burger\Ingredients\Ingredient.module.css, code is 102, comment is 0, blank is 11.
+Components\Burger\OrderSummary\OrderSummary.js, code is 20, comment is 0, blank is 4.
+Components\Layout\Layout.js, code is 33, comment is 0, blank is 6.
+Components\Layout\Layout.module.css, code is 3, comment is 0, blank is 0.
+Components\Layout\Toolbar\Toolbar.js, code is 17, comment is 0, blank is 1.
+Components\Layout\Toolbar\Toolbar.module.css, code is 32, comment is 0, blank is 5.
+Components\Logo\Logo.js, code is 9, comment is 0, blank is 2.
+Components\Logo\Logo.module.css, code is 18, comment is 0, blank is 2.
+Components\NavigationItems\NavigationItem\NavigationItem.js, code is 10, comment is 0, blank is 1.
+Components\NavigationItems\NavigationItem\NavigationItem.module.css, code is 40, comment is 0, blank is 5.
+Components\NavigationItems\NavigationItems.js, code is 12, comment is 0, blank is 1.
+Components\NavigationItems\NavigationItems.module.css, code is 14, comment is 0, blank is 1.
+Components\NavigationItems\SideDrawer\SideDrawer.js, code is 24, comment is 0, blank is 5.
+Components\NavigationItems\SideDrawer\SideDrawer.module.css, code is 23, comment is 0, blank is 3.
+Components\Order\Order.js, code is 20, comment is 0, blank is 4.
+Components\Order\Order.module.css, code is 8, comment is 0, blank is 0.
+Components\Orders\CheckoutSummary\CheckoutSummary.js, code is 17, comment is 0, blank is 3.
+Components\Orders\CheckoutSummary\CheckoutSummary.module.css, code is 10, comment is 0, blank is 1.
+Components\UI\Backdrop\Backdrop.js, code is 8, comment is 0, blank is 2.
+Components\UI\Backdrop\Backdrop.module.css, code is 9, comment is 0, blank is 0.
+Components\UI\Button\Button.js, code is 8, comment is 0, blank is 2.
+Components\UI\Button\Button.module.css, code is 21, comment is 0, blank is 3.
+Components\UI\Input\Input.js, code is 32, comment is 0, blank is 6.
+Components\UI\Input\Input.module.css, code is 26, comment is 0, blank is 4.
+Components\UI\Modal\Modal.js, code is 19, comment is 0, blank is 2.
+Components\UI\Modal\Modal.module.css, code is 19, comment is 0, blank is 1.
+Components\UI\Spinner\Spinner.js, code is 6, comment is 0, blank is 2.
+Components\UI\Spinner\Spinner.module.css, code is 85, comment is 0, blank is 0.
+Containers\BurgerBuilder\BurgerBuilder.js, code is 148, comment is 0, blank is 19.
+Containers\Checkout\Checkout.js, code is 51, comment is 0, blank is 9.
+Containers\Checkout\ContactData\ContactData.js, code is 243, comment is 2, blank is 31.
+Containers\Checkout\ContactData\ContactData.module.css, code is 14, comment is 0, blank is 1.
+Containers\Orders\Orders.js, code is 49, comment is 0, blank is 7.
+HOC\Auxiliary.js, code is 2, comment is 0, blank is 1.
+HOC\withError\WithError.js, code is 40, comment is 0, blank is 10.
+index.css, code is 11, comment is 0, blank is 2.
+index.js, code is 12, comment is 3, blank is 2.
+serviceWorker.js, code is 95, comment is 31, blank is 15.
+setupTests.js, code is 1, comment is 4, blank is 0.
+===============================================================================
